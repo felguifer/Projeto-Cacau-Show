@@ -12,9 +12,10 @@ Protótipo front-end criado para demonstrar soluções para os 5 problemas levan
 Abra o arquivo `index.html` no navegador.
 
 ## Divisão sugerida do grupo
-- Felipe: integração geral, área de cadastro/validações e apresentação do projeto.
-- Menina 1: Catálogo — organização dos produtos, filtros, pesquisa e layout dos cards.
-- Menina 2: Autoatendimento + Cupons — perguntas frequentes, fluxo de ajuda e validação dos códigos.
+- Integrante 1 (Felipe): integração geral, área de cadastro/validações e apresentação do projeto.
+- Integrante 2: Catálogo — organização dos produtos, filtros, pesquisa e layout dos cards.
+- Integrante 3: Autoatendimento + Cupons — perguntas frequentes, fluxo de ajuda e validação dos códigos.
+- Integrante 4: autoatendimento e chatbot.
 
 ## Próximo passo
 Se o professor exigir banco de dados, o `products` do `script.js` pode ser substituído por uma API Node.js/Express + PostgreSQL.
